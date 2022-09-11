@@ -1,0 +1,211 @@
+// Samsung Galaxy S8+
+@media only screen 
+    and (device-width : 360px) 
+    and (device-height : 740px) 
+    and (-webkit-device-pixel-ratio : 4) {
+	.card {
+		margin-top: 5%;
+		margin-left: 40px;
+        width: 80%;
+		height: 70vh;
+		box-sizing: border-box;
+		border: 1px solid black;
+		background: white;
+		box-shadow: 0 1rem 5rem -2rem rgba(black,0.5);
+		transition: transform 100ms linear;
+	}
+	
+	.price {
+		margin-top: -5%;
+		float: left;
+	}
+	.description {
+		margin-top: -2%;
+		margin-left: -5%;
+		float: left;
+	}
+	
+	.rating {
+		margin-top: 460%;
+		margin-left: 1%;
+	}
+	
+	.addBtn {
+		margin-bottom: -420%;
+		margin-right: -8%;
+		width: 170px;
+		height: 40px;
+		background-color: rgb(10, 177, 163);
+		color: white;
+		border: 1px solid rgb(10, 177, 163);
+		border-radius: -10px;
+	}
+	
+	.count {
+		margin-top: 460%;
+		margin-right: -12%;
+	}
+	
+}
+
+
+
+// Samsung Galaxy S20 Ultra
+@media only screen 
+    and (device-width : 412px) 
+    and (device-height : 915px) 
+    and (-webkit-min-device-pixel-ratio : 3.5) {
+	.card {
+		margin-top: -5%;
+		margin-left: 40px;
+        width: 80%;
+		height: 70vh;
+		box-sizing: border-box;
+		border: 1px solid black;
+		background: white;
+		box-shadow: 0 1rem 5rem -2rem rgba(black,0.5);
+		transition: transform 100ms linear;
+	}
+	
+	.price {
+		margin-top: -5%;
+		float: left;
+	}
+	.description {
+		margin-top: -2%;
+		margin-left: -5%;
+		float: left;
+	}
+	
+	.rating {
+		margin-top: 370%;
+		margin-left: 1%;
+	}
+	
+	.addBtn {
+		margin-bottom: -335%;
+		margin-right: -3%;
+		width: 170px;
+		height: 40px;
+		background-color: rgb(10, 177, 163);
+		color: white;
+		border: 1px solid rgb(10, 177, 163);
+		border-radius: -10px;
+	}
+	
+	.count {
+		margin-top: 370%;
+		margin-right: -5%;
+	}
+	
+}
+
+
+
+// Samsung Galaxy A51/71
+@media only screen 
+    and (device-width : 412px) 
+    and (device-height : 914px) 
+    and (-webkit-min-device-pixel-ratio :  2.625) {
+	.card {
+		margin-top: -5%;
+		margin-left: 40px;
+        width: 80%;
+		height: 70vh;
+		box-sizing: border-box;
+		border: 1px solid black;
+		background: white;
+		box-shadow: 0 1rem 5rem -2rem rgba(black,0.5);
+		transition: transform 100ms linear;
+	}
+	
+	.price {
+		margin-top: -5%;
+		float: left;
+	}
+	.description {
+		margin-top: -2%;
+		margin-left: -5%;
+		float: left;
+	}
+	
+	.rating {
+		margin-top: 370%;
+		margin-left: 1%;
+	}
+	
+	.addBtn {
+		margin-bottom: -335%;
+		margin-right: -3%;
+		width: 170px;
+		height: 40px;
+		background-color: rgb(10, 177, 163);
+		color: white;
+		border: 1px solid rgb(10, 177, 163);
+		border-radius: -10px;
+	}
+	
+	.count {
+		margin-top: 370%;
+		margin-right: -5%;
+	}
+	
+}
+
+
+
+
+// Samsung Galaxy Fold
+@media only screen 
+    and (device-width : 280px) 
+    and (device-height : 653px) 
+    and (-webkit-min-device-pixel-ratio : 2) {
+	.card {
+		margin-top: 35%;
+		margin-left: 40px;
+        width: 80%;
+		height: 105vh;
+		box-sizing: border-box;
+		border: 1px solid black;
+		background: white;
+		box-shadow: 0 1rem 5rem -2rem rgba(black,0.5);
+		transition: transform 100ms linear;
+	}
+	
+	.price {
+		margin-top: -5%;
+		float: left;
+	}
+	.description {
+		margin-top: -2%;
+		margin-left: -5%;
+		float: left;
+	}
+	
+	.rating {
+		margin-top: 680%;
+		margin-left: -8%;
+	}
+	
+	.addBtn {
+		margin-bottom: -655%;
+		margin-right: -18%;
+		width: 170px;
+		height: 40px;
+		background-color: rgb(10, 177, 163);
+		color: white;
+		border: 1px solid rgb(10, 177, 163);
+		border-radius: -10px;
+	}
+	
+	.count {
+		margin-top: 680%;
+		margin-right: -25%;
+	}
+	
+}
+
+
+
+
+

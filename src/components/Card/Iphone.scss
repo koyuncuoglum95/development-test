@@ -1,0 +1,311 @@
+// Iphone SE
+@media only screen and (max-width: 375px), only screen and (max-device-width: 375px) {
+	.card {
+		margin-top: 5%;
+		margin-left: 40px;
+        width: 80%;
+		height: 70vh;
+		box-sizing: border-box;
+		border: 1px solid black;
+		background: white;
+		box-shadow: 0 1rem 5rem -2rem rgba(black,0.5);
+		transition: transform 100ms linear;
+	}
+	
+	.price {
+		margin-top: -5%;
+		float: left;
+	}
+	.description {
+		margin-top: -2%;
+		margin-left: -5%;
+		float: left;
+	}
+	
+	.rating {
+		margin-top: 435%;
+		margin-left: 1%;
+	}
+	
+	.addBtn {
+		margin-bottom: -410%;
+		margin-right: -5%;
+		width: 170px;
+		height: 40px;
+		background-color: rgb(10, 177, 163);
+		color: white;
+		border: 1px solid rgb(10, 177, 163);
+		border-radius: -10px;
+	}
+	
+	.count {
+		margin-top: 435%;
+		margin-right: -7%;
+	}
+	
+}
+
+
+
+// Iphone XR,
+@media only screen 
+    and (device-width : 414px) 
+    and (device-height : 896px) 
+    and (-webkit-min-device-pixel-ratio : 2) {
+	.card {
+		margin-top: 5%;
+		margin-left: 40px;
+        width: 80%;
+		height: 70vh;
+		box-sizing: border-box;
+		border: 1px solid black;
+		background: white;
+		box-shadow: 0 1rem 5rem -2rem rgba(black,0.5);
+		transition: transform 100ms linear;
+	}
+	
+	.price {
+		margin-top: -5%;
+		float: left;
+	}
+	.description {
+		margin-top: -2%;
+		margin-left: -5%;
+		float: left;
+	}
+	
+	.rating {
+		margin-top: 360%;
+		margin-left: 1%;
+	}
+	
+	.addBtn {
+		margin-bottom: -335%;
+		margin-right: -2%;
+		width: 170px;
+		height: 40px;
+		background-color: rgb(10, 177, 163);
+		color: white;
+		border: 1px solid rgb(10, 177, 163);
+		border-radius: -10px;
+	}
+	
+	.count {
+		margin-top: 360%;
+		margin-right: -7%;
+	}
+	
+}
+
+
+// Iphone 12 Pro
+@media only screen 
+    and (device-width : 390px) 
+    and (device-height : 844px) 
+    and (-webkit-min-device-pixel-ratio : 3) {
+	.card {
+		margin-top: 5%;
+		margin-left: 40px;
+        width: 80%;
+		height: 70vh;
+		box-sizing: border-box;
+		border: 1px solid black;
+		background: white;
+		box-shadow: 0 1rem 5rem -2rem rgba(black,0.5);
+		transition: transform 100ms linear;
+	}
+	
+	.price {
+		margin-top: -5%;
+		float: left;
+	}
+	.description {
+		margin-top: -2%;
+		margin-left: -5%;
+		float: left;
+	}
+	
+	.rating {
+		margin-top: 400%;
+		margin-left: 1%;
+	}
+	
+	.addBtn {
+		margin-bottom: -365%;
+		margin-right: -2%;
+		width: 170px;
+		height: 40px;
+		background-color: rgb(10, 177, 163);
+		color: white;
+		border: 1px solid rgb(10, 177, 163);
+		border-radius: -10px;
+	}
+	
+	.count {
+		margin-top: 400%;
+		margin-right: -7%;
+	}
+	
+}
+
+
+// Pixel 5
+@media only screen 
+    and (device-width : 393px) 
+    and (device-height : 851px) 
+    and (-webkit-min-device-pixel-ratio : 2.75) {
+	.card {
+		margin-top: 5%;
+		margin-left: 40px;
+        width: 80%;
+		height: 70vh;
+		box-sizing: border-box;
+		border: 1px solid black;
+		background: white;
+		box-shadow: 0 1rem 5rem -2rem rgba(black,0.5);
+		transition: transform 100ms linear;
+	}
+	
+	.price {
+		margin-top: -5%;
+		float: left;
+	}
+	.description {
+		margin-top: -2%;
+		margin-left: -5%;
+		float: left;
+	}
+	
+	.rating {
+		margin-top: 400%;
+		margin-left: 1%;
+	}
+	
+	.addBtn {
+		margin-bottom: -365%;
+		margin-right: -2%;
+		width: 170px;
+		height: 40px;
+		background-color: rgb(10, 177, 163);
+		color: white;
+		border: 1px solid rgb(10, 177, 163);
+		border-radius: -10px;
+	}
+	
+	.count {
+		margin-top: 400%;
+		margin-right: -7%;
+	}
+	
+}
+
+
+//Ipad Air
+@media only screen 
+    and (device-width : 820px) 
+    and (device-height : 1180px) 
+    and (-webkit-min-device-pixel-ratio : 2) {
+	.card {
+		margin-top: 25%;
+		margin-left: 80px;
+        width: 80%;
+		height: 70vh;
+		box-sizing: border-box;
+		border: 1px solid black;
+		background: white;
+		box-shadow: 0 1rem 5rem -2rem rgba(black,0.5);
+		transition: transform 100ms linear;
+	}
+	
+	.price {
+		margin-top: -5%;
+		float: left;
+		font-size: 30px;
+	}
+	.description {
+		margin-top: -2%;
+		margin-left: -5%;
+		float: left;
+		font-size: 25px;
+	}
+	
+	.rating {
+		margin-top: 190%;
+		margin-left: 1%;
+	}
+	
+	.addBtn {
+		margin-bottom: -180%;
+		margin-right: -2%;
+		width: 300px;
+		height: 40px;
+		background-color: rgb(10, 177, 163);
+		color: white;
+		border: 1px solid rgb(10, 177, 163);
+		border-radius: -10px;
+		font-size: 20px;
+	}
+	
+	.count {
+		margin-top: 190%;
+		margin-right: 23%;
+	}
+	
+}
+
+
+
+
+//Ipad Mini
+@media only screen 
+    and (device-width : 768px) 
+    and (device-height : 1024px) 
+    and (-webkit-min-device-pixel-ratio : 1) {
+	.card {
+		margin-top: 25%;
+		margin-left: 80px;
+        width: 80%;
+		height: 70vh;
+		box-sizing: border-box;
+		border: 1px solid black;
+		background: white;
+		box-shadow: 0 1rem 5rem -2rem rgba(black,0.5);
+		transition: transform 100ms linear;
+	}
+	
+	.price {
+		margin-top: -5%;
+		float: left;
+		font-size: 30px;
+	}
+	.description {
+		margin-top: -2%;
+		margin-left: -5%;
+		float: left;
+		font-size: 25px;
+	}
+	
+	.rating {
+		margin-top: 215%;
+		margin-left: 1%;
+	}
+	
+	.addBtn {
+		margin-bottom: -195%;
+		margin-right: -2%;
+		width: 300px;
+		height: 40px;
+		background-color: rgb(10, 177, 163);
+		color: white;
+		border: 1px solid rgb(10, 177, 163);
+		border-radius: -10px;
+		font-size: 20px;
+	}
+	
+	.count {
+		margin-top: 215%;
+		margin-right: 20%;
+	}
+	
+}
+

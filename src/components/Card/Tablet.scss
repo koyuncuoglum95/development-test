@@ -1,0 +1,219 @@
+//Surface Pro7
+@media only screen 
+    and (device-width : 912px) 
+    and (device-height : 1368px) 
+    and (-webkit-min-device-pixel-ratio : 1.5) {
+	.card {
+		margin-top: 25%;
+		margin-left: 80px;
+        width: 80%;
+		height: 70vh;
+		box-sizing: border-box;
+		border: 1px solid black;
+		background: white;
+		box-shadow: 0 1rem 5rem -2rem rgba(black,0.5);
+		transition: transform 100ms linear;
+	}
+	
+	.price {
+		margin-top: -5%;
+		float: left;
+		font-size: 50px;
+	}
+	.description {
+		margin-top: -2%;
+		margin-left: -5%;
+		float: left;
+		font-size: 35px;
+	}
+	
+	.rating {
+		margin-top: 185%;
+		margin-left: 1%;
+	}
+	
+	.addBtn {
+		margin-bottom: -165%;
+		margin-right: 2%;
+		width: 310px;
+		height: 65px;
+		background-color: rgb(10, 177, 163);
+		color: white;
+		border: 1px solid rgb(10, 177, 163);
+		border-radius: -10px;
+		font-size: 30px;
+	}
+	
+	.count {
+		margin-top: 185%;
+		margin-right: 26%;
+	}
+	
+}
+
+
+//Surface Duo
+@media only screen 
+    and (device-width : 540px) 
+    and (device-height : 720px) 
+    and (-webkit-min-device-pixel-ratio : 2.5) {
+	.card {
+		margin-top: 25%;
+		margin-left: 50px;
+        width: 80%;
+		height: 70vh;
+		box-sizing: border-box;
+		border: 1px solid black;
+		background: white;
+		box-shadow: 0 1rem 5rem -2rem rgba(black,0.5);
+		transition: transform 100ms linear;
+	}
+	
+	.price {
+		margin-top: -5%;
+		float: left;
+	}
+	.description {
+		margin-top: -2%;
+		margin-left: -5%;
+		float: left;
+	}
+	
+	.rating {
+		margin-top: 285%;
+		margin-left: 1%;
+	}
+	
+	.addBtn {
+		margin-bottom: -275%;
+		margin-right: -11%;
+		width: 310px;
+		height: 65px;
+		background-color: rgb(10, 177, 163);
+		color: white;
+		border: 1px solid rgb(10, 177, 163);
+		border-radius: -10px;
+	}
+	
+	.count {
+		margin-top: 285%;
+    	margin-right: 5%;
+	}
+	
+}
+
+
+
+
+//Nest Hub
+@media only screen 
+    and (device-width : 1024px) 
+    and (device-height : 600px) 
+    and (-webkit-min-device-pixel-ratio : 0) {
+	.card {
+		margin-top: 5%;
+		margin-left: 95px;
+        width: 80%;
+		height: 95vh;
+		box-sizing: border-box;
+		border: 1px solid black;
+		background: white;
+		box-shadow: 0 1rem 5rem -2rem rgba(black,0.5);
+		transition: transform 100ms linear;
+	}
+	
+	.price {
+		margin-top: -5%;
+		float: left;
+        font-size: 40px;
+	}
+	.description {
+		margin-top: -2%;
+		margin-left: -3%;
+		float: left;
+        font-size: 20px;
+	}
+	
+	.rating {
+		margin-top: 155%;
+		margin-left: 1%;
+	}
+	
+	.addBtn {
+		margin-bottom: -155%;
+		margin-right: 3%;
+		width: 310px;
+		height: 65px;
+		background-color: rgb(10, 177, 163);
+		color: white;
+		border: 1px solid rgb(10, 177, 163);
+		border-radius: -10px;
+	}
+	
+	.count {
+		margin-top: 155%;
+    	margin-right: 28%;
+	}
+	
+}
+
+
+
+
+//Nest Hub Max
+@media only screen 
+    and (device-width : 1280px) 
+    and (device-height : 800px) 
+    and (-webkit-min-device-pixel-ratio : 0) {
+	.card {
+		margin-top: 5%;
+		margin-left: 120px;
+        width: 80%;
+		height: 95vh;
+		box-sizing: border-box;
+		border: 1px solid black;
+		background: white;
+		box-shadow: 0 1rem 5rem -2rem rgba(black,0.5);
+		transition: transform 100ms linear;
+	}
+	
+	.price {
+		margin-top: -2%;
+		float: left;
+        font-size: 40px;
+	}
+	.description {
+		margin-top: -2%;
+		margin-left: -3%;
+		float: left;
+        font-size: 30px;
+	}
+	
+	.rating {
+		margin-top: 125%;
+		margin-left: 1%;
+	}
+	
+	.addBtn {
+		margin-bottom: -125%;
+		margin-right: 6%;
+		width: 310px;
+		height: 65px;
+		background-color: rgb(10, 177, 163);
+		color: white;
+		border: 1px solid rgb(10, 177, 163);
+		border-radius: -10px;
+        font-size: 25px;
+	}
+	
+	.count {
+		margin-top: 125%;
+    	margin-right: 32%;
+	}
+	
+}
+
+
+
+
+

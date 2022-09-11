@@ -1,0 +1,46 @@
+.card {
+	margin-top: -68%;
+	margin-left: 50%;
+	width: 25%;
+	height: 65vh;
+	box-sizing: border-box;
+	padding: 2rem;
+	background: white;
+	box-shadow: 0 1rem 5rem -2rem rgba(black,0.5);
+	transition: transform 100ms linear;
+	border: 1px solid black;
+}
+
+.price {
+	margin-top: -5%;
+	float: left;
+}
+.description {
+	margin-top: -2%;
+	margin-left: -5%;
+	float: left;
+}
+
+.rating {
+	position: absolute;
+	top: 50%;
+}
+
+.addBtn {
+	position: absolute;
+	bottom: 16%;
+	right: 33%;
+	width: 170px;
+	height: 40px;
+	background-color: rgb(10, 177, 163);
+	color: white;
+	border: 1px solid rgb(10, 177, 163);
+	border-radius: -10px;
+}
+
+.count {
+	position: absolute;
+	top: 50%;
+	right: 38.5%;
+}
+
